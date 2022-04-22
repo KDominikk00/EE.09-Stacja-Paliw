@@ -1,0 +1,44 @@
+* {
+    display: border-box;
+    font-family: Arial;
+    margin: 0 auto;
+}
+
+#left, #right {
+    background-color: rgb(255, 127, 80);
+    color: white;
+    width: 50%;
+    height: 410px;
+}
+
+.baner, #main {
+    background-color: rgb(220, 220, 220);
+    padding: 20px;
+    text-align: center;
+    width: 
+}
+
+#footer-left, #footer-right {
+    background-color: rgb(255, 127, 80);
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+
+table td {
+    border: 1px solid rgb(255, 127, 80);
+    margin: 10px;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.top {
+    display: flex;
+}
+
+.footer-top {
+    display: flex;
+}
